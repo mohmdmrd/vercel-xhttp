@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "safora-blog",
+  "name": "batman-blog",
   "rewrites": [
     { "source": "/ping/(.*)", "destination": "/api/ping" }
   ],
